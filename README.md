@@ -32,7 +32,7 @@ It enables a "student" model to observe a pretrained "teacher" model’s predict
 
 1. Clone the repository
 ```bash
-git clone https://github.com/<your-username>/MimicNet.git
+git clone https://github.com/Iro96/MimicNet.git
 cd MimicNet
 ```
 
